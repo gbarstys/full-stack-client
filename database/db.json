@@ -1,0 +1,46 @@
+{
+"leashes": [
+  {
+    "id": "101",
+    "title": "Pavadėlis Baltas S",
+    "description": "Baltos spalvos pavadėlis skirtas mažos veislės šunims",
+    "price": "15.50",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "102",
+    "title": "Pavadėlis Juodas S",
+    "description": "Juodos spalvos pavadėlis skirtas mažos veislės šunims",
+    "price": "15.50",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "103",
+    "title": "Pavadėlis Pilkas M",
+    "description": "Pilkos spalvos pavadėlis skirtas vidutinės veislės šunims",
+    "price": "20.80",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "104",
+    "title": "Pavadėlis Mėlynas M",
+    "description": "Mėlynos spalvos pavadėlis skirtas vidutinės veislės šunims",
+    "price": "20.80",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "105",
+    "title": "Pavadėlis Raudonas L",
+    "description": "Raudonos spalvos pavadėlis skirtas didelės veislės šunims",
+    "price": "22.30",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "106",
+    "title": "Pavadėlis Rudas L",
+    "description": "Rudos spalvos pavadėlis skirtas didelės veislės šunims",
+    "price": "22.30",
+    "img": "https://images.unsplash.com/photo-1517598499378-be07cbf2e1d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGxlYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]
+}
