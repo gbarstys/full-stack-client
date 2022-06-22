@@ -22,7 +22,7 @@ const ContactsPage: React.FC = () => (
       <Typography component="h3" variant="h5"> Susisiekime!</Typography>
       <TextField
         required
-        label="Vardas"
+        label="El. Paštas"
         variant="outlined"
       />
       <TextField

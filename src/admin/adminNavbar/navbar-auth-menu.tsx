@@ -64,7 +64,7 @@ const NavbarAuthMenu: React.FC = () => {
         <Paper elevation={3}>
           <MenuList>
             <MenuItem onClick={() => handleNavigate('/dashboard')}>
-              ProfilePage
+              {/* ProfilePage */}
             </MenuItem>
             <Divider />
             <MenuItem onClick={logout}>
